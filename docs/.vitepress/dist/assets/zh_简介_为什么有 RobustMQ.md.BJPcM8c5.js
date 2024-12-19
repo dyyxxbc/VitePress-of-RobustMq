@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.BQmytedh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zh/简介/为什么有 RobustMQ.md","filePath":"zh/简介/为什么有 RobustMQ.md"}'),a={name:"zh/简介/为什么有 RobustMQ.md"};function s(r,_,c,n,p,d){return o(),e("div")}const f=t(a,[["render",s]]);export{m as __pageData,f as default};

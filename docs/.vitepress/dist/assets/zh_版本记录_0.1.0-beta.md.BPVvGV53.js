@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BQmytedh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zh/版本记录/0.1.0-beta.md","filePath":"zh/版本记录/0.1.0-beta.md"}'),r={name:"zh/版本记录/0.1.0-beta.md"};function o(s,c,n,_,p,d){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
